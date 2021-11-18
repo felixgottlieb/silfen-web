@@ -83,7 +83,7 @@ img {
   grid-row: 2;
   justify-self: flex-start;
   align-self: center;
-  font-family: "Roboto" bold;
+  font-family: "roboto", sans-serif;
   font-size: 1.2em;
 }
 
@@ -92,7 +92,7 @@ img {
   grid-row: 2;
   justify-self: flex-end;
   align-self: center;
-  font-family: "Roboto" bold;
+  font-family: "roboto", sans-serif;
   font-size: 1.2em;
 }
 
